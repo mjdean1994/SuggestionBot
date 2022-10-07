@@ -1,0 +1,10 @@
+{
+    "inputTitle": "Suggestion Box",
+    "inputContent": "Have feedback? Use the button below to submit completely anonymous feedback to the officer team!",
+    "inputButtonText": "New Suggestion",
+    "promptTitle": "Suggestion Box",
+    "promptContent": "Just reply to this message with what you want to say and I'll make sure the officer team gets it, totally anonymously! If you change your mind, don't worry--you can just ignore this message and I won't be offended.",
+    "confirmTitle": "Suggestion Box",
+    "confirmContent": "Alright, received loud and clear! I've sent your thoughts on to the officers! If you think of anything, feel free to just shoot me another message!",
+    "suggestionTitle": "New Suggestion"
+}
